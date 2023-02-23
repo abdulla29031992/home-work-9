@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\bin\Debug\net6.0\task 68.exe
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\bin\Debug\net6.0\task 68.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\bin\Debug\net6.0\task 68.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\bin\Debug\net6.0\task 68.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\bin\Debug\net6.0\task 68.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\refint\task 68.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\task 68.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C# home work 9\tasks\tasks 64\task 68\obj\Debug\net6.0\ref\task 68.dll
